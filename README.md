@@ -1,5 +1,6 @@
 # gclf_amm
-Project with Cheolhyeong Kim and Hyesung Moon
+URP Project
+Cheolhyeong Kim, Hyesung Moon
 
 ## dataset
 Download the dataset(Reddit12K, COLLAB) from the link below and save it into data folder.
