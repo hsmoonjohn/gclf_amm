@@ -1,7 +1,7 @@
 # gclf_amm
 URP Project
 
-Cheolhyeong Kim, Haesung Moon
+Cheolhyeong Kim, Haeseong Moon
 
 ## dataset
 Download the dataset(Reddit12K, COLLAB) from the link below and save it into data folder.
